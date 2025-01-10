@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\ITPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAA7F94-2E74-4AFD-8749-778AB040FFC1}|Buoi4\\Buoi4.csproj|d:\\unity\\itplus\\buoi4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAA7F94-2E74-4AFD-8749-778AB040FFC1}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi4\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4\\Program.cs",
+              "ToolTip": "D:\\Unity\\ITPlus\\Buoi4\\Program.cs",
+              "RelativeToolTip": "Buoi4\\Program.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAgwKsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:35:38.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

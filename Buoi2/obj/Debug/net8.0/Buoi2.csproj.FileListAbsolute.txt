@@ -1,0 +1,14 @@
+D:\Unity\Buoi2\Buoi2\bin\Debug\net8.0\Buoi2.exe
+D:\Unity\Buoi2\Buoi2\bin\Debug\net8.0\Buoi2.deps.json
+D:\Unity\Buoi2\Buoi2\bin\Debug\net8.0\Buoi2.runtimeconfig.json
+D:\Unity\Buoi2\Buoi2\bin\Debug\net8.0\Buoi2.dll
+D:\Unity\Buoi2\Buoi2\bin\Debug\net8.0\Buoi2.pdb
+D:\Unity\Buoi2\Buoi2\obj\Debug\net8.0\Buoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\Buoi2\Buoi2\obj\Debug\net8.0\Buoi2.AssemblyInfoInputs.cache
+D:\Unity\Buoi2\Buoi2\obj\Debug\net8.0\Buoi2.AssemblyInfo.cs
+D:\Unity\Buoi2\Buoi2\obj\Debug\net8.0\Buoi2.csproj.CoreCompileInputs.cache
+D:\Unity\Buoi2\Buoi2\obj\Debug\net8.0\Buoi2.dll
+D:\Unity\Buoi2\Buoi2\obj\Debug\net8.0\refint\Buoi2.dll
+D:\Unity\Buoi2\Buoi2\obj\Debug\net8.0\Buoi2.pdb
+D:\Unity\Buoi2\Buoi2\obj\Debug\net8.0\Buoi2.genruntimeconfig.cache
+D:\Unity\Buoi2\Buoi2\obj\Debug\net8.0\ref\Buoi2.dll
