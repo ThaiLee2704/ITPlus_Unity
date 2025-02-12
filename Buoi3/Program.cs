@@ -79,7 +79,7 @@ namespace Buoi3
             //data = Console.ReadLine();
             //int num = int.Parse(data);
 
-            //foreach (int child in arr) 
+            //foreach (int child in arr)
             //{
             //    if (num == child)
             //    {
@@ -88,7 +88,7 @@ namespace Buoi3
             //    }
             //}
             //Console.WriteLine(num + " & " + (sum / arr.Length));
-            //Console.WriteLine("So lon hon la: " + (num > (sum/arr.Length) ? num : (sum/arr.Length)));
+            //Console.WriteLine("So lon hon la: " + (num > (sum / arr.Length) ? num : (sum / arr.Length)));
 
             //Bai tap 2:
             //string s = "Nhap vao so thu {0}: ";
@@ -104,6 +104,7 @@ namespace Buoi3
             //        Console.Write(string.Format(s, i + 1));
             //        data = Console.ReadLine();
             //        check = int.TryParse(data, out arr[i]);
+            //        Console.WriteLine(check);
             //    } while (check == false);
             //}
 
@@ -165,7 +166,7 @@ namespace Buoi3
             //BUBBLE SORT
             //int[] A = new int[10] {8, 6, 34, 22, 40, 5, 11, 23, 44, 18};
 
-            //for (int i = 0; i < A.Length; i++)
+            //for (int i = 0; i < A.Length - 1; i++)
             //{
             //    for (int j = A.Length - 1; j > i; j--)
             //    {
@@ -187,7 +188,7 @@ namespace Buoi3
             string[] name = new string[10] {"Ha", "Hung", "Lan", "Tuan", "Tu", "Dat", "Tung", "Phuong", "Cuong", "Thanh"};
             float[] Score = new float[10] {25.5f, 21.25f, 26.75f, 22.75f, 19.5f, 20.0f, 24.5f, 28.75f, 25.5f, 20.75f};
 
-            for (int i = 0; i < Score.Length; i++)
+            for (int i = 0; i < Score.Length - 1; i++)
             {
                 for (int j = Score.Length - 1; j > i; j--)
                 {
@@ -209,7 +210,6 @@ namespace Buoi3
                 Console.Write(Score[i] + " ");
                 Console.WriteLine(name[i]);
             }
-
         }
     }
 }

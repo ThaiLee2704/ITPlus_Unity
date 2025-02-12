@@ -12,3 +12,4 @@ D:\Unity\ITPlus\Buoi4\obj\Debug\net8.0\refint\Buoi4.dll
 D:\Unity\ITPlus\Buoi4\obj\Debug\net8.0\Buoi4.pdb
 D:\Unity\ITPlus\Buoi4\obj\Debug\net8.0\Buoi4.genruntimeconfig.cache
 D:\Unity\ITPlus\Buoi4\obj\Debug\net8.0\ref\Buoi4.dll
+D:\Unity\ITPlus\Buoi4\obj\Debug\net8.0\Buoi4.sourcelink.json

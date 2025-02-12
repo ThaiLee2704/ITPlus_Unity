@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Buoi3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cb69cf492fecb0742f7b8ebc51c17de9f6a75ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Buoi3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Buoi3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

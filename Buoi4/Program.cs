@@ -71,7 +71,7 @@ namespace Buoi4
             //    intNames.Add(total);
             //}
 
-            //for (int i = 0; i < intNames.Count; i++)
+            //for (int i = 0; i < intNames.Count - 1; i++)
             //{
             //    for (int j = intNames.Count - 1; j > i; j--)
             //    {
@@ -104,7 +104,7 @@ namespace Buoi4
 
             //for (int i = 0; i < _scores.Count; i++)
             //{
-            //    Console.WriteLine(_scores[i].Key + "---" +  _scores[i].Value);
+            //    Console.WriteLine(_scores[i].Key + "---" + _scores[i].Value);
             //}
 
             //foreach (KeyValuePair<string, float> pair in _scores)
@@ -113,33 +113,30 @@ namespace Buoi4
             //}
 
             //BAI TAP
-            //inputdata: try
-            //{
-            //    Console.Write("Nhap vao 1 so nguyen to: ");
-            //    int num = int.Parse(Console.ReadLine());
-            //    if (num < 2) Console.WriteLine("Day khong phai la 1 so nguyen to");
-            //    else {
-            //        if (num == 2 || num == 3)
-            //            Console.WriteLine(num);
+            //inputData: try
+            //    {
+            //        Console.WriteLine("Nhap vao 1 so nguyen to: ");
+            //        int num = int.Parse(Console.ReadLine());
+            //        if (num < 2) Console.WriteLine("Day khong phai la so nguyen to");
+            //        else if (num == 2 || num == 3) Console.WriteLine(num);
             //        else
             //        {
             //            for (int i = 2; i <= Math.Sqrt(num); i++)
             //            {
             //                if (num % i == 0)
             //                {
-            //                    Console.WriteLine("Day khong phai la 1 so nguyen to");
+            //                    Console.WriteLine("Day khong phai la so nguyen to");
             //                    break;
             //                }
             //                else Console.WriteLine(num);
             //            }
             //        }
             //    }
-            //}
-            //catch (Exception e) 
-            //{
-            //    Console.WriteLine("Day khong phai la 1 so nguyen to");
-            //    goto inputdata;
-            //}
+            //    catch (Exception ex)
+            //    {
+            //        Console.WriteLine("Day khong phai la so nguyen to");
+            //        goto inputData;
+            //    }
 
             //BAI TAP
             List<int> numbers = new List<int>();
@@ -159,7 +156,7 @@ namespace Buoi4
                 }
             }
 
-            //foreach (int i in numbers)        //Mắc exeption
+            //foreach (int i in numbers)        //Mắc exception do miss giá trị, foreach không hỗ trợ việc danh sách bị thay đổi trong quá trình lặp
             //{
             //    if (i < 5)
             //    {
