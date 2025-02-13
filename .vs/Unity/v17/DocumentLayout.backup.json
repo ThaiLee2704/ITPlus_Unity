@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "D:\\Unity\\ITPlus\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{821F9162-9AB5-4142-A553-7B3FE77454DC}|Test\\Test.csproj|d:\\unity\\itplus\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821F9162-9AB5-4142-A553-7B3FE77454DC}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|d:\\unity\\itplus\\buoi7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|solutionrelative:buoi7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821F9162-9AB5-4142-A553-7B3FE77454DC}|Test\\Test.csproj|d:\\unity\\itplus\\test\\creep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821F9162-9AB5-4142-A553-7B3FE77454DC}|Test\\Test.csproj|solutionrelative:test\\creep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|d:\\unity\\itplus\\buoi7_1\\vidu\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|solutionrelative:buoi7_1\\vidu\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|d:\\unity\\itplus\\buoi7_1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|solutionrelative:buoi7_1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821F9162-9AB5-4142-A553-7B3FE77454DC}|Test\\Test.csproj|d:\\unity\\itplus\\test\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821F9162-9AB5-4142-A553-7B3FE77454DC}|Test\\Test.csproj|solutionrelative:test\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|d:\\unity\\itplus\\buoi7_1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|solutionrelative:buoi7_1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821F9162-9AB5-4142-A553-7B3FE77454DC}|Test\\Test.csproj|d:\\unity\\itplus\\test\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821F9162-9AB5-4142-A553-7B3FE77454DC}|Test\\Test.csproj|solutionrelative:test\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821F9162-9AB5-4142-A553-7B3FE77454DC}|Test\\Test.csproj|d:\\unity\\itplus\\test\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821F9162-9AB5-4142-A553-7B3FE77454DC}|Test\\Test.csproj|solutionrelative:test\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FDB41A8-A27A-41FA-BBE0-5F7B81E93421}|Buoi7\\Buoi7.csproj|d:\\unity\\itplus\\buoi7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|solutionrelative:buoi7_1\\vidu\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|d:\\unity\\itplus\\buoi7_1\\vidu\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|solutionrelative:buoi7_1\\vidu\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|d:\\unity\\itplus\\buoi7_1\\vidu\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|solutionrelative:buoi7_1\\vidu\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|d:\\unity\\itplus\\buoi7_1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|solutionrelative:buoi7_1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FAA7F94-2E74-4AFD-8749-778AB040FFC1}|Buoi4\\Buoi4.csproj|d:\\unity\\itplus\\buoi4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1FDB41A8-A27A-41FA-BBE0-5F7B81E93421}|Buoi7\\Buoi7.csproj|d:\\unity\\itplus\\buoi7\\vidu\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FDB41A8-A27A-41FA-BBE0-5F7B81E93421}|Buoi7\\Buoi7.csproj|solutionrelative:buoi7\\vidu\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|d:\\unity\\itplus\\buoi7_1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D794127C-FDE0-42F6-B73C-883F8B2A0533}|Buoi7_1\\Buoi7_1.csproj|solutionrelative:buoi7_1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75BAA41B-D68B-41FB-8D21-7511D7795098}|Buoi2\\Buoi2.csproj|d:\\unity\\itplus\\buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,20 +134,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Warrior.cs",
-              "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi7_1\\Vidu\\Warrior.cs",
-              "RelativeDocumentMoniker": "Buoi7_1\\Vidu\\Warrior.cs",
-              "ToolTip": "D:\\Unity\\ITPlus\\Buoi7_1\\Vidu\\Warrior.cs",
-              "RelativeToolTip": "Buoi7_1\\Vidu\\Warrior.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "D:\\Unity\\ITPlus\\Test\\Mage.cs",
+              "RelativeDocumentMoniker": "Test\\Mage.cs",
+              "ToolTip": "D:\\Unity\\ITPlus\\Test\\Mage.cs",
+              "RelativeToolTip": "Test\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T07:35:31.797Z",
+              "WhenOpened": "2025-02-13T15:15:15.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\Unity\\ITPlus\\Test\\Warrior.cs",
+              "RelativeDocumentMoniker": "Test\\Warrior.cs",
+              "ToolTip": "D:\\Unity\\ITPlus\\Test\\Warrior.cs",
+              "RelativeToolTip": "Test\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:15:03.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unity\\ITPlus\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\Unity\\ITPlus\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAD4vycAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:13:52.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Teacher.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi7_1\\Teacher.cs",
               "RelativeDocumentMoniker": "Buoi7_1\\Teacher.cs",
@@ -135,38 +181,37 @@
               "RelativeToolTip": "Buoi7_1\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T07:10:16.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T07:10:16.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi7_1\\Student.cs",
               "RelativeDocumentMoniker": "Buoi7_1\\Student.cs",
               "ToolTip": "D:\\Unity\\ITPlus\\Buoi7_1\\Student.cs",
               "RelativeToolTip": "Buoi7_1\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T07:10:00.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi7_1\\Person.cs",
               "RelativeDocumentMoniker": "Buoi7_1\\Person.cs",
               "ToolTip": "D:\\Unity\\ITPlus\\Buoi7_1\\Person.cs",
               "RelativeToolTip": "Buoi7_1\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T07:09:52.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi7\\Program.cs",
               "RelativeDocumentMoniker": "Buoi7\\Program.cs",
@@ -179,13 +224,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi7_1\\Program.cs",
               "RelativeDocumentMoniker": "Buoi7_1\\Program.cs",
               "ToolTip": "D:\\Unity\\ITPlus\\Buoi7_1\\Program.cs",
               "RelativeToolTip": "Buoi7_1\\Program.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAQwD0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAUwHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T15:02:40.662Z",
               "EditorCaption": ""
@@ -198,14 +243,52 @@
               "RelativeDocumentMoniker": "Buoi7_1\\Vidu\\Entity.cs",
               "ToolTip": "D:\\Unity\\ITPlus\\Buoi7_1\\Vidu\\Entity.cs",
               "RelativeToolTip": "Buoi7_1\\Vidu\\Entity.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAABRwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T07:34:35.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Creep.cs",
+              "DocumentMoniker": "D:\\Unity\\ITPlus\\Test\\Creep.cs",
+              "RelativeDocumentMoniker": "Test\\Creep.cs",
+              "ToolTip": "D:\\Unity\\ITPlus\\Test\\Creep.cs",
+              "RelativeToolTip": "Test\\Creep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:15:43.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\Unity\\ITPlus\\Test\\Entity.cs",
+              "RelativeDocumentMoniker": "Test\\Entity.cs",
+              "ToolTip": "D:\\Unity\\ITPlus\\Test\\Entity.cs",
+              "RelativeToolTip": "Test\\Entity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:14:43.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi7_1\\Vidu\\Warrior.cs",
+              "RelativeDocumentMoniker": "Buoi7_1\\Vidu\\Warrior.cs",
+              "ToolTip": "D:\\Unity\\ITPlus\\Buoi7_1\\Vidu\\Warrior.cs",
+              "RelativeToolTip": "Buoi7_1\\Vidu\\Warrior.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:35:31.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Mage.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi7_1\\Vidu\\Mage.cs",
               "RelativeDocumentMoniker": "Buoi7_1\\Vidu\\Mage.cs",
@@ -213,12 +296,11 @@
               "RelativeToolTip": "Buoi7_1\\Vidu\\Mage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T07:36:23.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T07:36:23.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi7\\Vidu\\Student.cs",
               "RelativeDocumentMoniker": "Buoi7\\Vidu\\Student.cs",
@@ -226,12 +308,11 @@
               "RelativeToolTip": "Buoi7\\Vidu\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T07:03:47.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T07:03:47.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "TestClass.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi6\\Abstract\\TestClass.cs",
               "RelativeDocumentMoniker": "Buoi6\\Abstract\\TestClass.cs",
@@ -239,12 +320,11 @@
               "RelativeToolTip": "Buoi6\\Abstract\\TestClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T10:09:40.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T10:09:40.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi4\\Program.cs",
               "RelativeDocumentMoniker": "Buoi4\\Program.cs",
@@ -257,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Creep.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi7_1\\Vidu\\Creep.cs",
               "RelativeDocumentMoniker": "Buoi7_1\\Vidu\\Creep.cs",
@@ -265,12 +345,11 @@
               "RelativeToolTip": "Buoi7_1\\Vidu\\Creep.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T07:36:41.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T07:36:41.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "ISkillA.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi6\\Interface\\ISkillA.cs",
               "RelativeDocumentMoniker": "Buoi6\\Interface\\ISkillA.cs",
@@ -278,12 +357,11 @@
               "RelativeToolTip": "Buoi6\\Interface\\ISkillA.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T09:50:59.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T09:50:59.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "ITStudent.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi6\\Vidu\\ITStudent.cs",
               "RelativeDocumentMoniker": "Buoi6\\Vidu\\ITStudent.cs",
@@ -291,12 +369,11 @@
               "RelativeToolTip": "Buoi6\\Vidu\\ITStudent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T09:32:55.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T09:32:55.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi6\\Vidu\\Student.cs",
               "RelativeDocumentMoniker": "Buoi6\\Vidu\\Student.cs",
@@ -304,12 +381,11 @@
               "RelativeToolTip": "Buoi6\\Vidu\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T09:27:28.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T09:27:28.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "ISkillB.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi6\\Interface\\ISkillB.cs",
               "RelativeDocumentMoniker": "Buoi6\\Interface\\ISkillB.cs",
@@ -317,12 +393,11 @@
               "RelativeToolTip": "Buoi6\\Interface\\ISkillB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T09:55:33.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T09:55:33.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "HinhHopChuNhat.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi6\\HinhHopChuNhat.cs",
               "RelativeDocumentMoniker": "Buoi6\\HinhHopChuNhat.cs",
@@ -330,12 +405,11 @@
               "RelativeToolTip": "Buoi6\\HinhHopChuNhat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T09:18:28.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T09:18:28.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "HinhHopVuong.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi6\\HinhHopVuong.cs",
               "RelativeDocumentMoniker": "Buoi6\\HinhHopVuong.cs",
@@ -343,12 +417,11 @@
               "RelativeToolTip": "Buoi6\\HinhHopVuong.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T16:25:29.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T16:25:29.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "HinhHop.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi6\\HinhHop.cs",
               "RelativeDocumentMoniker": "Buoi6\\HinhHop.cs",
@@ -356,12 +429,11 @@
               "RelativeToolTip": "Buoi6\\HinhHop.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T10:04:15.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T10:04:15.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi6\\Program.cs",
               "RelativeDocumentMoniker": "Buoi6\\Program.cs",
@@ -374,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi5\\Program.cs",
               "RelativeDocumentMoniker": "Buoi5\\Program.cs",
@@ -387,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi3\\Program.cs",
               "RelativeDocumentMoniker": "Buoi3\\Program.cs",
@@ -400,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi2\\Program.cs",
               "RelativeDocumentMoniker": "Buoi2\\Program.cs",
@@ -413,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "TestClass1.cs",
               "DocumentMoniker": "D:\\Unity\\ITPlus\\Buoi6\\Abstract\\TestClass1.cs",
               "RelativeDocumentMoniker": "Buoi6\\Abstract\\TestClass1.cs",
@@ -421,8 +493,7 @@
               "RelativeToolTip": "Buoi6\\Abstract\\TestClass1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T10:10:51.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T10:10:51.963Z"
             }
           ]
         }
