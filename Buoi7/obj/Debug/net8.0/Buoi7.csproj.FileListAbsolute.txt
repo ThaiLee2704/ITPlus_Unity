@@ -1,0 +1,15 @@
+D:\Unity\ITPlus\Buoi7\bin\Debug\net8.0\Buoi7.exe
+D:\Unity\ITPlus\Buoi7\bin\Debug\net8.0\Buoi7.deps.json
+D:\Unity\ITPlus\Buoi7\bin\Debug\net8.0\Buoi7.runtimeconfig.json
+D:\Unity\ITPlus\Buoi7\bin\Debug\net8.0\Buoi7.dll
+D:\Unity\ITPlus\Buoi7\bin\Debug\net8.0\Buoi7.pdb
+D:\Unity\ITPlus\Buoi7\obj\Debug\net8.0\Buoi7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ITPlus\Buoi7\obj\Debug\net8.0\Buoi7.AssemblyInfoInputs.cache
+D:\Unity\ITPlus\Buoi7\obj\Debug\net8.0\Buoi7.AssemblyInfo.cs
+D:\Unity\ITPlus\Buoi7\obj\Debug\net8.0\Buoi7.csproj.CoreCompileInputs.cache
+D:\Unity\ITPlus\Buoi7\obj\Debug\net8.0\Buoi7.sourcelink.json
+D:\Unity\ITPlus\Buoi7\obj\Debug\net8.0\Buoi7.dll
+D:\Unity\ITPlus\Buoi7\obj\Debug\net8.0\refint\Buoi7.dll
+D:\Unity\ITPlus\Buoi7\obj\Debug\net8.0\Buoi7.pdb
+D:\Unity\ITPlus\Buoi7\obj\Debug\net8.0\Buoi7.genruntimeconfig.cache
+D:\Unity\ITPlus\Buoi7\obj\Debug\net8.0\ref\Buoi7.dll

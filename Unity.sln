@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi4", "Buoi4\Buoi4.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi5", "Buoi5\Buoi5.csproj", "{A672E5E8-B53F-49F3-84EA-59BA0EB46B1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi6", "Buoi6\Buoi6.csproj", "{996A8C86-C22F-43B8-A9C8-31E283F6EEEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi6", "Buoi6\Buoi6.csproj", "{996A8C86-C22F-43B8-A9C8-31E283F6EEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi7", "Buoi7\Buoi7.csproj", "{1FDB41A8-A27A-41FA-BBE0-5F7B81E93421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi7_1", "Buoi7_1\Buoi7_1.csproj", "{D794127C-FDE0-42F6-B73C-883F8B2A0533}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{996A8C86-C22F-43B8-A9C8-31E283F6EEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{996A8C86-C22F-43B8-A9C8-31E283F6EEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{996A8C86-C22F-43B8-A9C8-31E283F6EEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDB41A8-A27A-41FA-BBE0-5F7B81E93421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDB41A8-A27A-41FA-BBE0-5F7B81E93421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDB41A8-A27A-41FA-BBE0-5F7B81E93421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDB41A8-A27A-41FA-BBE0-5F7B81E93421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D794127C-FDE0-42F6-B73C-883F8B2A0533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D794127C-FDE0-42F6-B73C-883F8B2A0533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D794127C-FDE0-42F6-B73C-883F8B2A0533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D794127C-FDE0-42F6-B73C-883F8B2A0533}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
